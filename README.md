@@ -4,6 +4,6 @@
 <details>
 <summary><b>🔗 Telegram</b></summary>
 
-[R1](https://t.me/psycho_syridwan)
+[R I D W A N](https://t.me/psycho_syridwan)
 
 </details>
