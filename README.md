@@ -1,6 +1,11 @@
 ## 👋 Hi, I’m Ridwan
 
-<!---
-justteen/justteen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+<details>
+<summary><b>🔗 Telegram</b></summary>
+
+<h4>Show More!</h4>
+
+<p><a href="https://t.me/psycho_syridwan></a></p>
+
+</details>
