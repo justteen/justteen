@@ -4,8 +4,6 @@
 <details>
 <summary><b>🔗 Telegram</b></summary>
 
-<h4>Show More!</h4>
-
-<p><a href="https://t.me/psycho_syridwan></a></p>
+[R1](https://t.me/psycho_syridwan)
 
 </details>
